@@ -1,2 +1,2 @@
 # Carpool_project
-My_mini_project_4thsem
+My_mini_project_for Placement Assignment
